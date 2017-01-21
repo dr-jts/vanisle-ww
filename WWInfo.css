@@ -1,0 +1,65 @@
+BODY {
+	background-image: url(images/raindrops_blue.jpg);
+	margin-left: 10px;
+	margin-top: 20px
+}
+.WWInfoTitle {
+	background-color: lightblue;
+	color: #4E21B3;
+	font-size: 10pt;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.WWInfoRiver {
+	background-color: lightgrey;
+	text-color: #4E21B3;
+	font-size: 10pt;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.WWInfoContent {
+	background-color: white;
+	font-size: 10pt;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.WWInfoContentBold {
+	background-color: white;
+	font-size: 10pt;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.pictureCaption {
+	font-style: italic;
+	font-weight: bold
+}
+.photo {
+	border-width:10px; 
+	border-style:ridge;
+	border-color:tan;
+}
+.pictureFancy {
+	border-width:10px; 
+	border-style:ridge;
+	border-color:#FfE09B;
+}
+H1 {
+	color: #4E21B3;
+	font-family: "Zapf-Chancery", cursive;
+}
+.h1formal {
+	color: #4E21B3;
+	font-family: serif;
+}
+H2 {
+	color: #4E21B3;
+	font-family: serif;
+}
+.caption {
+	font-style: italic;
+	font-weight: bold;
+}
+BLOCKQUOTE {
+	font-style: italic;
+	font-size: 10pt;
+}
+
