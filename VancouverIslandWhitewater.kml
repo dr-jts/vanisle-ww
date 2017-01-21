@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Vancouver Island Whitewater</name>
+  <description><![CDATA[]]></description>
+  <Style id="style25">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/info_circle.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Upper Koksilah (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style25</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -123.788292,48.628880,0.000000
+        -123.778664,48.630440,0.000000
+        -123.771713,48.633190,0.000000
+        -123.768410,48.632114,0.000000
+        -123.765060,48.632965,0.000000
+        -123.760300,48.632626,0.000000
+        -123.757378,48.634499,0.000000
+        -123.759186,48.635857,0.000000
+        -123.755966,48.637871,0.000000
+        -123.753349,48.637390,0.000000
+        -123.745964,48.639317,0.000000
+        -123.741631,48.641899,0.000000
+        -123.739784,48.641811,0.000000
+        -123.739609,48.642551,0.000000
+        -123.738754,48.645840,0.000000
+        -123.726227,48.647144,0.000000
+        -123.720650,48.652191,0.000000
+        -123.709663,48.658543,0.000000
+        -123.705971,48.663586,0.000000
+        -123.700211,48.666130,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Upper Koksilah PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-123.788498,48.629192,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Burnt Bridge (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-123.739357,48.642494,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Upper Koksilah TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-123.700302,48.666080,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Koksilah Canyon (IV)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style57</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -123.693825,48.668320,0.000000
+        -123.683136,48.670277,0.000000
+        -123.677086,48.672569,0.000000
+        -123.674644,48.675743,0.000000
+        -123.670822,48.676201,0.000000
+        -123.668800,48.677788,0.000000
+        -123.665543,48.678097,0.000000
+        -123.663651,48.680759,0.000000
+        -123.661469,48.680420,0.000000
+        -123.657349,48.683907,0.000000
+        -123.653358,48.683453,0.000000
+        -123.649452,48.688438,0.000000
+        -123.650482,48.689827,0.000000
+        -123.646919,48.694473,0.000000
+        -123.646149,48.698383,0.000000
+        -123.647690,48.700359,0.000000
+        -123.648247,48.703026,0.000000
+        -123.647049,48.704357,0.000000
+        -123.647560,48.707302,0.000000
+        -123.650909,48.708096,0.000000
+        -123.657516,48.713421,0.000000
+        -123.656441,48.715771,0.000000
+        -123.656357,48.716480,0.000000
+        -123.657990,48.717468,0.000000
+        -123.660995,48.720695,0.000000
+        -123.664940,48.722424,0.000000
+        -123.667473,48.723331,0.000000
+        -123.667732,48.725254,0.000000
+        -123.671402,48.728111,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Koksilah Canyon PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-123.693993,48.668007,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Triple Drop (IV)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-123.674728,48.675560,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marble Falls (V)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-123.662163,48.680607,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Koksilah Canyon TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-123.671555,48.728230,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cowichan River - Marie Canyon (III+)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style33</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -123.953331,48.782768,0.000000
+        -123.946594,48.779808,0.000000
+        -123.948868,48.777855,0.000000
+        -123.949860,48.776104,0.000000
+        -123.947021,48.774971,0.000000
+        -123.943375,48.773701,0.000000
+        -123.941872,48.775906,0.000000
+        -123.942085,48.778252,0.000000
+        -123.940758,48.778648,0.000000
+        -123.935219,48.774632,0.000000
+        -123.930847,48.775368,0.000000
+        -123.928482,48.775848,0.000000
+        -123.928398,48.777149,0.000000
+        -123.927414,48.777573,0.000000
+        -123.923721,48.776894,0.000000
+        -123.922562,48.777771,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Marie Canyon PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-123.953506,48.782864,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Double Whammy (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-123.926254,48.777290,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Last Drop (III+)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-123.922371,48.777657,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marie Canyon TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-123.921829,48.777405,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Cowichan (II)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style12</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -123.892303,48.770557,0.000000
+        -123.889816,48.770050,0.000000
+        -123.890076,48.766712,0.000000
+        -123.882355,48.765297,0.000000
+        -123.875313,48.766373,0.000000
+        -123.873856,48.767673,0.000000
+        -123.873169,48.770504,0.000000
+        -123.867928,48.769428,0.000000
+        -123.862183,48.769543,0.000000
+        -123.862953,48.766884,0.000000
+        -123.859520,48.765129,0.000000
+        -123.858749,48.760941,0.000000
+        -123.856514,48.760998,0.000000
+        -123.853683,48.762074,0.000000
+        -123.848534,48.761227,0.000000
+        -123.843903,48.757545,0.000000
+        -123.840118,48.758339,0.000000
+        -123.835320,48.757038,0.000000
+        -123.826561,48.758846,0.000000
+        -123.822701,48.756130,0.000000
+        -123.816345,48.758396,0.000000
+        -123.813774,48.757774,0.000000
+        -123.812225,48.759132,0.000000
+        -123.808624,48.759583,0.000000
+        -123.806648,48.761791,0.000000
+        -123.803642,48.761280,0.000000
+        -123.797035,48.763542,0.000000
+        -123.789055,48.763432,0.000000
+        -123.786224,48.761227,0.000000
+        -123.783966,48.761459,0.000000
+        -123.782143,48.762562,0.000000
+        -123.777725,48.762356,0.000000
+        -123.775307,48.761147,0.000000
+        -123.774277,48.760357,0.000000
+        -123.772835,48.760376,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lower Cowichan - Stoltz Pool PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-123.892372,48.770546,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vimy Wave</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-123.781982,48.762428,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Cowichan - Vimy Rd PI/TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-123.772720,48.760349,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Chemainus (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style19</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -123.756859,48.903992,0.000000
+        -123.755569,48.904732,0.000000
+        -123.752403,48.904110,0.000000
+        -123.746483,48.907379,0.000000
+        -123.742363,48.906700,0.000000
+        -123.737289,48.907719,0.000000
+        -123.736427,48.904560,0.000000
+        -123.724159,48.895920,0.000000
+        -123.718323,48.894180,0.000000
+        -123.716438,48.891190,0.000000
+        -123.711975,48.887691,0.000000
+        -123.711632,48.885601,0.000000
+        -123.707680,48.882660,0.000000
+        -123.703987,48.881592,0.000000
+        -123.705109,48.880630,0.000000
+        -123.705032,48.878540,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lower Chemainus PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-123.757660,48.903419,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rollercoaster (III)</name>
+    <description><![CDATA[<div dir="ltr">Lots of great waves</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-123.737358,48.905914,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Gate (II+)</name>
+    <description><![CDATA[<div dir="ltr">AKA The Toilet Bowl</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-123.715157,48.890400,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Chemainus TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-123.704491,48.878815,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle Nanaimo (III+)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style35</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -124.090233,49.078979,0.000000
+        -124.084908,49.079201,0.000000
+        -124.082161,49.077179,0.000000
+        -124.070663,49.076561,0.000000
+        -124.059502,49.072910,0.000000
+        -124.054779,49.073971,0.000000
+        -124.052887,49.077850,0.000000
+        -124.050056,49.077351,0.000000
+        -124.047142,49.075600,0.000000
+        -124.038643,49.078079,0.000000
+        -124.035210,49.078362,0.000000
+        -124.033836,49.076111,0.000000
+        -124.029121,49.075829,0.000000
+        -124.025864,49.079708,0.000000
+        -124.024048,49.079929,0.000000
+        -124.021133,49.077629,0.000000
+        -124.017273,49.077911,0.000000
+        -124.014778,49.076389,0.000000
+        -124.009201,49.071609,0.000000
+        -123.995987,49.071560,0.000000
+        -123.987488,49.073051,0.000000
+        -123.973503,49.072601,0.000000
+        -123.969597,49.071419,0.000000
+        -123.969810,49.069847,0.000000
+        -123.968430,49.068291,0.000000
+        -123.966766,49.065628,0.000000
+        -123.965866,49.064728,0.000000
+        -123.964493,49.064190,0.000000
+        -123.962433,49.064194,0.000000
+        -123.960373,49.064640,0.000000
+        -123.956757,49.066380,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Middle Nanaimo PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-124.090317,49.078983,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Little Nanaimo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-124.078430,49.076057,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>A-Frame TO/PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-124.033821,49.076859,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Canyon (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-124.026657,49.077984,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pipeline Drop (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-124.018112,49.077843,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle Nanaimo TO 1</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-124.013969,49.075916,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Ledges (II)</name>
+    <description><![CDATA[<div dir="ltr">Tons of fantastic surf ledges</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-123.987282,49.072403,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>House Rock (III+)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-123.957413,49.065994,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle Nanaimo TO 2</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-123.956726,49.066219,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Englishman (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style54</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -124.349052,49.247131,0.000000
+        -124.347702,49.248840,0.000000
+        -124.350304,49.251499,0.000000
+        -124.349777,49.252560,0.000000
+        -124.347290,49.252510,0.000000
+        -124.346863,49.255760,0.000000
+        -124.343338,49.257050,0.000000
+        -124.340942,49.261250,0.000000
+        -124.335701,49.262482,0.000000
+        -124.335617,49.264999,0.000000
+        -124.332108,49.267357,0.000000
+        -124.329872,49.265118,0.000000
+        -124.326691,49.267910,0.000000
+        -124.328323,49.270432,0.000000
+        -124.326347,49.271721,0.000000
+        -124.323174,49.270599,0.000000
+        -124.320427,49.271832,0.000000
+        -124.317253,49.271889,0.000000
+        -124.316391,49.272839,0.000000
+        -124.317253,49.274300,0.000000
+        -124.313988,49.275982,0.000000
+        -124.310471,49.276932,0.000000
+        -124.309952,49.277489,0.000000
+        -124.310677,49.278271,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Englishman PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-124.349075,49.246685,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle Gold (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style32</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -126.068031,49.799660,0.000000
+        -126.066917,49.787472,0.000000
+        -126.057732,49.786251,0.000000
+        -126.061073,49.783871,0.000000
+        -126.059708,49.779934,0.000000
+        -126.052963,49.774323,0.000000
+        -126.052002,49.773354,0.000000
+        -126.052002,49.771317,0.000000
+        -126.055069,49.770622,0.000000
+        -126.053864,49.767391,0.000000
+        -126.054123,49.763527,0.000000
+        -126.053757,49.759853,0.000000
+        -126.049210,49.756596,0.000000
+        -126.048157,49.755333,0.000000
+        -126.048119,49.753933,0.000000
+        -126.050003,49.752270,0.000000
+        -126.053093,49.751602,0.000000
+        -126.058762,49.751495,0.000000
+        -126.066116,49.752811,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Englishman TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-124.310799,49.278194,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puntledge (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style62</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -125.051720,49.688175,0.000000
+        -125.050789,49.688747,0.000000
+        -125.048813,49.688774,0.000000
+        -125.047203,49.688232,0.000000
+        -125.043594,49.688095,0.000000
+        -125.039436,49.688679,0.000000
+        -125.038788,49.690830,0.000000
+        -125.037674,49.691841,0.000000
+        -125.035210,49.690105,0.000000
+        -125.034630,49.688911,0.000000
+        -125.032227,49.686790,0.000000
+        -125.032181,49.684235,0.000000
+        -125.025833,49.687485,0.000000
+        -125.020508,49.687595,0.000000
+        -125.016174,49.689426,0.000000
+        -125.013985,49.688984,0.000000
+        -125.008453,49.691788,0.000000
+        -125.003685,49.692646,0.000000
+        -125.000893,49.695980,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Puntledge PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-125.051674,49.688080,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Three Little Pigs (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-125.050171,49.688705,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Riverwide (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-125.037971,49.691715,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puntledge Weir</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-125.032524,49.685150,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puntledge TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-125.000854,49.695950,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Oyster (II+)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style43</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -125.270744,49.886009,0.000000
+        -125.265083,49.886452,0.000000
+        -125.267487,49.890545,0.000000
+        -125.264053,49.896626,0.000000
+        -125.237617,49.892754,0.000000
+        -125.227142,49.896736,0.000000
+        -125.214615,49.883022,0.000000
+        -125.204491,49.888439,0.000000
+        -125.188522,49.883022,0.000000
+        -125.179771,49.876053,0.000000
+        -125.168610,49.871628,0.000000
+        -125.162086,49.869194,0.000000
+        -125.162430,49.864990,0.000000
+        -125.150070,49.866760,0.000000
+        -125.146835,49.870079,0.000000
+        -125.141663,49.868752,0.000000
+        -125.137543,49.869747,0.000000
+        -125.132217,49.867645,0.000000
+        -125.125351,49.868641,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lower Oyster PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-125.270920,49.885899,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Oyster TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-125.125694,49.868584,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle Gold PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-126.068291,49.799385,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle Gold TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-126.066010,49.752796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Upper Salmon (III+)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style17</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -125.670631,50.093769,0.000000
+        -125.673294,50.092670,0.000000
+        -125.675354,50.090851,0.000000
+        -125.679649,50.090687,0.000000
+        -125.679901,50.088264,0.000000
+        -125.681793,50.086613,0.000000
+        -125.684967,50.081875,0.000000
+        -125.685143,50.078297,0.000000
+        -125.688057,50.076202,0.000000
+        -125.695267,50.074329,0.000000
+        -125.701447,50.068821,0.000000
+        -125.709343,50.066837,0.000000
+        -125.713631,50.063972,0.000000
+        -125.717323,50.064247,0.000000
+        -125.722733,50.059067,0.000000
+        -125.738182,50.055321,0.000000
+        -125.747620,50.054272,0.000000
+        -125.751740,50.051960,0.000000
+        -125.757919,50.051682,0.000000
+        -125.760155,50.048542,0.000000
+        -125.763077,50.047825,0.000000
+        -125.770798,50.049149,0.000000
+        -125.779121,50.046558,0.000000
+        -125.784363,50.044628,0.000000
+        -125.789680,50.043690,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Upper Salmon PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-125.790627,50.043579,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Upper Salmon TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-125.670715,50.093685,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Salmon Weir</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-125.669777,50.094154,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle Salmon (III)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style44</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -125.715012,50.178326,0.000000
+        -125.713036,50.170521,0.000000
+        -125.707108,50.169807,0.000000
+        -125.707199,50.158588,0.000000
+        -125.672523,50.141430,0.000000
+        -125.662048,50.120689,0.000000
+        -125.659134,50.113312,0.000000
+        -125.659988,50.106930,0.000000
+        -125.656982,50.103569,0.000000
+        -125.656647,50.100872,0.000000
+        -125.663162,50.101864,0.000000
+        -125.667458,50.097347,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Middle Salmon PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-125.667244,50.096935,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle Salmon TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-125.714790,50.178108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Box Canyon (X)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-125.721275,50.181541,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Middle Salmon (II+)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style53</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -125.722900,50.185692,0.000000
+        -125.728912,50.195583,0.000000
+        -125.747795,50.198879,0.000000
+        -125.750031,50.209427,0.000000
+        -125.750885,50.220081,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lower Middle Salmon PI</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-125.722992,50.185444,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Middle Salmon TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-125.751312,50.219643,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower White (III+)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -125.968552,50.216019,0.000000
+        -125.902634,50.307980,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Lower White PI</name>
+    <description><![CDATA[<div dir="ltr">LOCATION UNKNOWN</div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-125.970955,50.214260,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower White TO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-125.903320,50.307980,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
